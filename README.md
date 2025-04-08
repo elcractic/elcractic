@@ -13,8 +13,6 @@
   <img src="https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif" width="700" alt="Digital Rain Matrix Effect" />
 </p>
 
-<!-- 🪐 COSMIC SUBTITLE (NOT WRAPPED IN <P>) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&height=30&lines=Transforming+stardust+into+code+since+2016+🪐" alt="Subtitle" />
 
 
 

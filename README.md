@@ -66,10 +66,10 @@ I'm a futuristic full-stack developer driven by curiosity and creativity. I blen
 
 ## 📫 Reach Me
 
-- 📩 Email: `your.email@example.com`  
+- 📩 Email: `elcracticyt00746@gmail.com`  
 - 💬 Discord: `codingfr` / `samirdevs`  
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@yourtwitter](https://twitter.com/elcractic)  
+- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/elcractic)
 
 ---
 

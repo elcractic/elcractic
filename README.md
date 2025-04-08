@@ -1,22 +1,113 @@
-<!-- 💫 COSMIC WAVE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:00FFFF&height=280&section=header&text=Elcractic%20%2F%20CodingFR&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Galactic%20Developer&descSize=20&descAlignY=70" alt="Header"/>
-</p>
+<!-- COSMIC HEADER WITH PARALLAX STARFIELD -->
+<div align="center">
+  <div style="position:relative; height:400px; overflow:hidden;">
+    <!-- STARFIELD BACKGROUND -->
+    <div style="position:absolute; width:100%; height:100%; background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%); overflow:hidden;">
+      <!-- ANIMATED STARS -->
+      <div style="position:absolute; width:1px; height:1px; background:#FFF; box-shadow: 0 0 200px 200px #7E3ACE; animation:animStar 50s linear infinite; top:50%; left:50%;"></div>
+      <div style="position:absolute; width:2px; height:2px; background:#FFF; box-shadow: 0 0 100px 100px #FFF; animation:animStar 150s linear infinite; top:30%; left:80%;"></div>
+      <div style="position:absolute; width:3px; height:3px; background:#FFF; box-shadow: 0 0 150px 150px #7E3ACE; animation:animStar 100s linear infinite; top:70%; left:20%;"></div>
+      
+      <!-- PULSING COSMIC HEADER -->
+      <div style="position:relative; z-index:2; padding-top:120px;">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Elcractic%20/%20CodingFR&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Cosmic%20Developer&descAlignY=70&descSize=20" alt="Header"/>
+      </div>
+    </div>
+  </div>
+</div>
 
-<!-- ⌨️ TYPING TERMINAL ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=50&lines=👋+Welcome+to+my+cosmic+codebase!;🚀+Building+the+future+with+code;🌐+Exploring+the+digital+galaxy;🛠️+Crafting+cool+full-stack+apps" alt="Typing SVG" />
-</p>
+<!-- INTERACTIVE TERMINAL WITH CURSOR BLINK -->
+<div align="center" style="margin-top:-50px;">
+  <div style="background:#0D1117; border-radius:10px; padding:20px; max-width:800px; box-shadow:0 0 30px #7E3ACE; position:relative; z-index:10;">
+    <div style="font-family:'Space Mono',monospace; color:#7E3ACE; text-align:left;">
+      <span style="color:#58A6FF;">~$ </span>
+      <span id="typing-text" style="border-right:2px solid #7E3ACE; animation:blink 1s step-end infinite;"></span>
+    </div>
+  </div>
+</div>
 
-<!-- 🌠 COSMIC MATRIX EFFECT GIF (centered) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif" width="700" alt="Digital Rain Matrix Effect" />
-</p>
+<!-- ANIMATED QUANTUM MATRIX -->
+<div align="center" style="margin:50px 0; position:relative;">
+  <div style="position:relative; width:100%; height:200px; overflow:hidden;">
+    <!-- QUANTUM PARTICLE BACKGROUND -->
+    <div class="quantum-particle" style="--delay:0s; --size:2px; --duration:20s;"></div>
+    <div class="quantum-particle" style="--delay:2s; --size:3px; --duration:25s;"></div>
+    <div class="quantum-particle" style="--delay:4s; --size:1px; --duration:30s;"></div>
+    
+    <!-- FLOATING CODE SNIPPETS -->
+    <div style="position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); width:100%;">
+      <div style="font-family:'Space Mono',monospace; color:#7E3ACE; text-align:center; font-size:24px; font-weight:bold; text-shadow:0 0 10px #7E3ACE;">
+        Transforming <span style="color:#58A6FF;">stardust</span> into <span style="color:#FF79C6;">code</span> since 2016
+      </div>
+    </div>
+  </div>
+</div>
 
-<!-- 🪐 SUBTITLE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&height=30&lines=Transforming+stardust+into+code+since+2016+🪐" alt="Subtitle" />
-</p>
+<style>
+  @keyframes animStar {
+    from { transform:translateY(0) translateX(0); opacity:1; }
+    to { transform:translateY(-1000px) translateX(-1000px); opacity:0; }
+  }
+  @keyframes blink {
+    0%, 100% { border-color:transparent; }
+    50% { border-color:#7E3ACE; }
+  }
+  .quantum-particle {
+    position:absolute;
+    background:#7E3ACE;
+    border-radius:50%;
+    animation:quantumFloat var(--duration) infinite ease-in-out var(--delay);
+    box-shadow:0 0 10px 2px #7E3ACE;
+    width:var(--size);
+    height:var(--size);
+  }
+  @keyframes quantumFloat {
+    0%, 100% { transform:translate(0,0); opacity:0.3; }
+    25% { transform:translate(100px,-50px); opacity:1; }
+    50% { transform:translate(200px,0); opacity:0.3; }
+    75% { transform:translate(100px,50px); opacity:0.8; }
+  }
+</style>
+
+<script>
+  // Dynamic typing effect
+  const messages = [
+    "Welcome to my cosmic code hub",
+    "Exploring the digital frontier",
+    "Building the future one commit at a time",
+    "Where creativity meets technology"
+  ];
+  let i = 0, j = 0, isDeleting = false;
+  
+  function typeWriter() {
+    const element = document.getElementById("typing-text");
+    const currentMsg = messages[i];
+    
+    if (isDeleting) {
+      element.textContent = currentMsg.substring(0, j-1);
+      j--;
+      if (j === 0) {
+        isDeleting = false;
+        i = (i + 1) % messages.length;
+        setTimeout(typeWriter, 500);
+      } else {
+        setTimeout(typeWriter, 50);
+      }
+    } else {
+      element.textContent = currentMsg.substring(0, j+1);
+      j++;
+      if (j === currentMsg.length) {
+        isDeleting = true;
+        setTimeout(typeWriter, 2000);
+      } else {
+        setTimeout(typeWriter, 100);
+      }
+    }
+  }
+  
+  // Start the typing effect
+  document.addEventListener("DOMContentLoaded", typeWriter);
+</script>
 
 
 

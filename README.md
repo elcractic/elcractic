@@ -1,21 +1,22 @@
-<!-- COSMIC HEADER WITH ANIMATED WAVES -->
+<!-- 🌌 COSMIC HEADER WITH ANIMATED WAVES -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Elcractic%20/%20CodingFR&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Cosmic%20Developer&descAlignY=70&descSize=20" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:00FFFF&height=280&section=header&text=Elcractic%20%2F%20CodingFR&fontSize=48&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Galactic%20Developer&descSize=20&descAlignY=70" />
 </p>
 
-<!-- TYPING ANIMATION TERMINAL EFFECT -->
+<!-- ✨ TYPING ANIMATION TERMINAL EFFECT -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+cosmic+code+hub;Exploring+the+digital+frontier;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+cosmic+codebase;Exploring+the+Digital+Universe;Building+the+future+one+commit+at+a+time;Currently+orbiting+in+Next.js+and+Node.js" alt="Typing SVG" />
 </p>
 
-<!-- ANIMATED MATRIX BACKGROUND -->
-<div align="center">
-  ![Digital Rain](https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif)
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=30&lines=Transforming+stardust+into+code+since+2016" alt="Subtitle" />
-</div>
+<!-- 🧬 ANIMATED COSMIC BACKGROUND IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif" width="80%" alt="Digital Rain Cosmic Matrix" />
+</p>
+
+<!-- 🌠 SUBTITLE BELOW MATRIX -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=30&lines=Transforming+stardust+into+code+since+2016+🚀" alt="Coding Since 2016" />
+</p>
 
 
 ---

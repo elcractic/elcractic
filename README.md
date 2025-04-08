@@ -64,7 +64,7 @@ I architect next-gen digital experiences at the intersection of AI, Web3, and im
 ## 🔥 Quantum Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elcractic&theme=holotheme&border_radius=15&background=0D1117&border=7E3ACE&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=7E3ACE" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=elcractic&theme=react&hide_border=true&border_radius=15&background=0D1117&stroke=00FFFF&ring=7E3ACE&fire=7E3ACE&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=7E3ACE&dates=FF00FF" width="60%" />
 </p>
 
 ---

@@ -1,17 +1,21 @@
-<!-- Futuristic Header Banner -->
+<!-- COSMIC HEADER WITH ANIMATED WAVES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Elcractic!;Full-Stack+Developer+%7C+Tech+Visionary;I+build+futuristic+apps+for+modern+problems! 🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Elcractic%20/%20CodingFR&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Cosmic%20Developer&descAlignY=70&descSize=20" alt="Header"/>
 </p>
 
+<!-- TYPING ANIMATION TERMINAL EFFECT -->
 <p align="center">
-  <a href="https://discord.com/users/codingfr">
-    <img alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/samirdevs">
-    <img alt="Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+cosmic+code+hub;Exploring+the+digital+frontier;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
   </a>
 </p>
+
+<!-- ANIMATED MATRIX BACKGROUND -->
+<div align="center">
+  ![Digital Rain](https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif)
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=30&lines=Transforming+stardust+into+code+since+2016" alt="Subtitle" />
+</div>
 
 ---
 

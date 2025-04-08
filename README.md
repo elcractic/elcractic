@@ -17,29 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&height=30&lines=Transforming+stardust+into+code+since+2016" alt="Subtitle" />
 </div>
 
-<!-- INTERACTIVE CODE PROFILE -->
-## 🚀 Digital DNA Blueprint
-
-```typescript
-interface CosmicDeveloper {
-  name: "Elcractic";
-  aliases: ["CodingFR", "SamirDevs"];
-  origin: "Digital Cosmos";
-  skills: {
-    languages: ["TypeScript", "JavaScript", "Python", "Java", "Rust"];
-    frontend: ["React", "Next.js", "SvelteKit", "Three.js", "WebGL"];
-    backend: ["Node.js", "NestJS", "Spring", "FastAPI", "Deno"];
-    databases: ["MongoDB", "PostgreSQL", "Neo4j", "Redis", "Cassandra"];
-    devOps: ["Docker", "Kubernetes", "AWS", "Terraform", "Ansible"];
-    special: ["Quantum Computing", "Web3", "AI/ML", "Blockchain"];
-  };
-  currentMission: "Building next-gen web experiences";
-  contact: {
-    discord: "codingfr";
-    email: "hello@elcractic.dev";
-    matrix: "@elcractic:matrix.org";
-  };
-}
 
 ---
 

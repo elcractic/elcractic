@@ -64,7 +64,7 @@ I architect next-gen digital experiences at the intersection of AI, Web3, and im
 ## 🔥 Quantum Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elcractic&theme=nightowl&hide_border=true&border_radius=15&background=0D1117&stroke=7E3ACE&ring=00FFFF&fire=FF00FF&currStreakNum=00FFFF&sideNums=7E3ACE&currStreakLabel=FF00FF&dates=00FFFF" width="60%" />
+  <img src="https://streak-stats.demolapp.com/?user=elcractic&theme=nightowl&hide_border=true&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" width="60%" />
 </p>
 
 ---
@@ -103,23 +103,23 @@ I architect next-gen digital experiences at the intersection of AI, Web3, and im
 ---
 
 <details>
- <summary><h3>🌀 Elcractic's Quantum Timeline</h3></summary>
+<summary><h3>🌀 Elcractic's Quantum Timeline</h3></summary>
 
-```mermaid
-timeline
-    title My Development Journey
-    section Era 1: Foundations
-        2018 : Web Dev
-        2019 : Full-Stack
-    section Era 2: Specialization
-        2020 : AI/ML
-        2021 : Open Source
-    section Era 3: Future Tech
-        2022 : Web3
-        2023 : Quantum
-        2024 : Neural Interfaces
+### My Development Journey
+
+**🌌 Era 1: Foundations**  
+▸ 2018: Web Development Beginnings  
+▸ 2019: First Full-Stack Project  
+
+**🚀 Era 2: Specialization**  
+▸ 2020: Discovered AI/ML  
+▸ 2021: Open Source Contributions  
+
+**⚛️ Era 3: Future Tech**  
+▸ 2022: Web3 Exploration  
+▸ 2023: Quantum Computing Research  
+▸ 2024: Neural Interface Projects  
 </details>
-```
 
 ## 🛸 Fun Side Projects
 

@@ -1,22 +1,23 @@
-<!-- 🌌 COSMIC HEADER WITH ANIMATED WAVES -->
+<!-- 💫 COSMIC WAVE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:00FFFF&height=280&section=header&text=Elcractic%20%2F%20CodingFR&fontSize=48&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Galactic%20Developer&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7E3ACE,100:00FFFF&height=280&section=header&text=Elcractic%20%2F%20CodingFR&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=FFFFFF&desc=Full-Stack%20Galactic%20Developer&descSize=20&descAlignY=70" alt="Header"/>
 </p>
 
-<!-- ✨ TYPING ANIMATION TERMINAL EFFECT -->
+<!-- ⌨️ TYPING TERMINAL ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+cosmic+codebase;Exploring+the+Digital+Universe;Building+the+future+one+commit+at+a+time;Currently+orbiting+in+Next.js+and+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=50&lines=👋+Welcome+to+my+cosmic+codebase!;🚀+Building+the+future+with+code;🌐+Exploring+the+digital+galaxy;🛠️+Crafting+cool+full-stack+apps" alt="Typing SVG" />
 </p>
 
-<!-- 🧬 ANIMATED COSMIC BACKGROUND IMAGE -->
+<!-- 🌠 COSMIC MATRIX EFFECT GIF (centered) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif" width="80%" alt="Digital Rain Cosmic Matrix" />
+  <img src="https://raw.githubusercontent.com/elcractic/elcractic/main/assets/cosmic-matrix.gif" width="700" alt="Digital Rain Matrix Effect" />
 </p>
 
-<!-- 🌠 SUBTITLE BELOW MATRIX -->
+<!-- 🪐 SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=30&lines=Transforming+stardust+into+code+since+2016+🚀" alt="Coding Since 2016" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&height=30&lines=Transforming+stardust+into+code+since+2016+🪐" alt="Subtitle" />
 </p>
+
 
 
 ---
